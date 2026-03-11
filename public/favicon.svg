@@ -1,0 +1,29 @@
+﻿<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .titulo{
+      font-family: 'Montserrat', Arial;
+      font-size:42px;
+      font-weight:700;
+      fill:#1a1a1a;
+    }
+
+    .sub{
+      font-family:'Montserrat', Arial;
+      font-size:18px;
+      fill:#444;
+    }
+  </style>
+
+  <rect x="10" y="20" width="70" height="70" rx="10" fill="#FFC107"/>
+
+  <polygon points="40,25 55,55 45,55 60,90 35,60 45,60"
+  fill="#1a1a1a"/>
+
+  <text x="95" y="60" class="titulo">
+    MANSO
+  </text>
+
+  <text x="95" y="88" class="sub">
+    ELECTRICISTA
+  </text>
+</svg>
